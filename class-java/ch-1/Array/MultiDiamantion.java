@@ -7,6 +7,6 @@ public class MultiDiamantion{
               a[1][1]=4;
           System.out.println(a[1][1]);
 
-	}   // you modify each row daimention  
+	}   //  you modify each row daimention  
 }      //daimention=>array in array
       // diamention=>identify unique element
